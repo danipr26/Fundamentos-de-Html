@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<svg width="640" height="480" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - https://github.com/SVG-Edit/svgedit-->
+ <g class="layer">
+  <title>Layer 1</title>
+  <polygon cx="221.5" cy="106.5" edge="130.162292" fill="#361b59" id="svg_2" orient="x" points="163.28533363586345,86.50002184642364 114.99548663621496,153.54431057692756 36.86089679445897,127.93567110804571 36.86089679445897,45.06438395747597 114.99548663621496,19.45574448859412 163.28533363586345,86.50002184642364 " shape="regularPoly" sides="5" stroke="#000000" strokeWidth="0" strokecolor="#000000" transform="rotate(-160.942 100.073 86.5)"/>
+  <polygon cx="77.5" cy="82.5" fill="#fc0000" id="svg_5" orient="point" point="5" points="106,36.22270202636719 117.33431243896484,74.07007598876953 151.8482666015625,74.88644409179688 124.33930969238281,99.09378051757812 134.33578491210938,137.44569396972656 106,114.55927276611328 77.66423034667969,137.44569396972656 87.66069793701172,99.09378051757812 60.15174865722656,74.88644409179688 94.66568756103516,74.07007598876953 106,36.22270202636719 117.33431243896484,74.07007598876953 " r="80.277297" r2="32.110919" shape="star" stroke="#000000" stroke-width="0" strokeWidth="0" strokecolor="#000000"/>
+  <text fill="#ffffff" font-family="Cursive" font-size="32" font-style="italic" font-weight="bold" id="svg_1" stroke="#000000" stroke-width="0" text-anchor="middle" transform="matrix(0.92809 0 0 0.842105 8.52247 21.3947)" x="104.5" xml:space="preserve" y="91.5">Daniela</text>
+  <polygon cx="212.5" cy="47.5" edge="0" fill="#000000" id="svg_4" orient="x" shape="regularPoly" sides="5" strokeWidth="0" strokecolor="#000000"/>
+ </g>
+</svg>
